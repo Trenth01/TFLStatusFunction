@@ -1,7 +1,6 @@
 # Alexa Tube Status Skill (TfL API Integration)
 
 This project provides a custom Alexa skill powered by an AWS Lambda function written in Python. It fetches real-time status updates for London Underground lines using the Transport for London (TfL) API and responds to voice queries about tube line disruptions.
-currently the list of lines is hard coded with the default_lines implementation, but once the skill is published you will be able to pass in the lines by talking to alexa.
 
 ## 🛠 Overview
 
